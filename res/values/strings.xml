@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LudoGame</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_setup">SetupActivity</string>
+    <string name="todo_string">TODO</string>
+    <string name="strSetupPlayers">Setup Players</string>
+    <string name="strRedPlayer">Player 1</string>
+    <string name="strGreenPlayer">Player 2</string>
+    <string name="strYellowPlayer">Player 3</string>
+    <string name="strBluePlayer">Player 4</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+
+</resources>
